@@ -1,0 +1,19 @@
+{
+  "name": "cypress-run-all-specs",
+  "version": "1.0.0",
+  "description": "Run all cypress specs",
+  "main": "index.js",
+  "scripts": {
+    "test": "cy run"
+  },
+  "keywords": [
+    "cypress",
+    "runallspecs"
+  ],
+  "author": "Mohammad Jeeshan",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.1.0",
+    "glob": "^8.0.3"
+  }
+}
